@@ -1,17 +1,13 @@
 # just-recipes
----
 This is a simple React Native app for trackingg favorite recipes.
 
 ## Objective
----
 This app aims to provide a straight-forward and simple way to create and save recipes on a mobile device.
 
 ## Details
----
 This app should have the following layout and functionality:
 
 ### Layout
----
 The layout of the app should resemble as described below.
 
 - [ ] MAIN screen
@@ -57,7 +53,6 @@ The layout of the app should resemble as described below.
       - [ ] tbd
 
 ### Functionality
----
 The functionality of the app should operate as described below.
 
 - [ ] MAIN screen
@@ -86,5 +81,4 @@ The functionality of the app should operate as described below.
    - [ ] `scale` batch component to multiply measurements
 
 ## Summary
----
 The first version of this app should provide the user with the means to track and organize favorite recipes.
